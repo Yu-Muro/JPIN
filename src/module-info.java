@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author murotaniyu
+ *
+ */
+module JPIN {
+}
